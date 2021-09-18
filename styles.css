@@ -1,0 +1,61 @@
+body {
+  font-family: "Red Hat Display";
+  text-align: center;
+}
+
+h2 {
+  font-size: 0.9rem;
+  font-weight: 900;
+}
+
+p {
+  font-size: 1rem;
+  color: grey;
+}
+
+.bg {
+  background-image: url("images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
+  background-size: 1920px 500px;
+  background-color: hsl(225, 100%, 94%);
+}
+
+.card {
+  margin: 20% 0;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  font-weight: 900;
+  padding: 7% 0 3% 0;
+}
+
+.container-1 {
+  padding: 7% 6% 2% 6%;
+  background-color: hsl(225, 100%, 98%);
+}
+
+.money {
+  font-size: 0.9rem;
+}
+
+.change {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.buttons {
+  margin-bottom: 5%;
+}
+
+.btn-primary{
+  font-size: 0.9rem;
+  font-weight: 700;
+  background-color: blue;
+}
+.btn-light{
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: grey;
+  margin: 6% 0;
+}
